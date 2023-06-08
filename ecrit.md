@@ -1,0 +1,2 @@
+test unitaire : ce sont des test écrit avant et pendant le dev il serve a plein de chose. A rassurer le dev en mode les tests pass et sont propre sur un bou de code relou on sait que ça marche pas besoin de revenir dessus. Sécuriser et assurer le bon fonctionnement du code produit et plein d'autre chose. 
+test e2e : ces tests son fait a la fin du dev il permette de controller le bon fonctionnement de l'application d'un point de vue visuel etc. il permettent de automatiser les tests user.
